@@ -1,8 +1,10 @@
-# elpsy.cn
-
-Steins Gate
+# El Psy Congroo
 
 > Style Design
+
+Steins;Gate <elpsy.cn>
+
+## Git
 
 Git 世界线 切换
 
